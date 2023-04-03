@@ -3,3 +3,7 @@
 DataMahasiswa1302213116 objRay1 = new DataMahasiswa1302213116();
 
 objRay1.ReadJSON();
+
+TeamMembers1302213116 objRay2 = new TeamMembers1302213116();
+
+objRay2.ReadJSON();
