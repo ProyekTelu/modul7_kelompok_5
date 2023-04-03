@@ -18,7 +18,7 @@ namespace modul7_kelompok_5
             Console.WriteLine("Nama: "+ jsonObject.firstName + jsonObject.lastName +"\nGender: "+ jsonObject.gender + 
                 "\nUmur: "+ jsonObject.age +"\nAlamat: "+ jsonObject.address.streetAddress+", " + jsonObject.address.city+", " + jsonObject.address.state);
 
-            Console.WriteLine("Daftar mata kuliah yang diambil:");
+            Console.WriteLine("\nDaftar mata kuliah yang diambil:");
             int i = 1;
             foreach (var course in jsonObject.courses)
             {
