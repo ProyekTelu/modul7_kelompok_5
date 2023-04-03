@@ -15,13 +15,10 @@ namespace modul7_kelompok_5
 
             dynamic jsonObj = JsonConvert.DeserializeObject(jsonString);
 
-            Console.WriteLine("\nTEAM MEMBERS \n");
+            Console.WriteLine("\nTeam member list: ");
             foreach (dynamic obj in jsonObj.members)
             {
-                Console.WriteLine($"Name\t : {obj.firstName} {obj.lastName}\n" +
-                    $"Gender\t : {obj.gender}\n" +
-                    $"Age\t : {obj.age}\n" +
-                    $"nim\t : {obj.nim}\n");
+                Console.WriteLine($"{obj.nim} {obj.firstName} {obj.lastName} ({obj.age} {obj.gender})");
             }
         }
     }
