@@ -1,0 +1,46 @@
+{
+  "members" : [
+    {
+       "firstName": "Fasya",
+       "lastName": "Raihan Maulana",
+       "gender": "Male",
+       "age": 20,
+       "nim": "1302213116"
+    },
+    {
+       "firstName": "Mochamad",
+       "lastName": "Rifqi Barliant",
+       "gender": "Male",
+       "age": 20,
+       "nim": "1302210125"
+    },
+    {
+      "firstName": "Reza",
+      "lastName": "Adhie Dharmawan",
+      "gender": "Male",
+      "age": 20,
+      "nim": "1302213016"
+    },
+    {
+      "firstName": "Muhammad",
+      "lastName": "Zaky Fathurahim",
+      "gender": "Male",
+      "age": 20,
+      "nim": "1302213067"
+    },
+    {
+      "firstName": "Rizki",
+      "lastName": "Muhammad Ridwan",
+      "gender": "Male",
+      "age": 20,
+      "nim": "1302210097"
+    },
+    {
+      "firstName": "Raihan",
+      "lastName": "Sulthon Yaafi",
+      "gender": "Male",
+      "age": 20,
+      "nim": "1302210074"
+    }
+  ]
+}
