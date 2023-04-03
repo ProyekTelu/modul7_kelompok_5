@@ -60,11 +60,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\modul7_kelompok_5\\modul7_kelompok_5\\modul7_kelompok_5.csproj",
+      "projectUniqueName": "D:\\Modul7_1302210097\\modul7_kelompok_5\\modul7_kelompok_5\\modul7_kelompok_5.csproj",
       "projectName": "modul7_kelompok_5",
-      "projectPath": "D:\\modul7_kelompok_5\\modul7_kelompok_5\\modul7_kelompok_5.csproj",
+      "projectPath": "D:\\Modul7_1302210097\\modul7_kelompok_5\\modul7_kelompok_5\\modul7_kelompok_5.csproj",
       "packagesPath": "C:\\Users\\PRAKTIKAN\\.nuget\\packages\\",
-      "outputPath": "D:\\modul7_kelompok_5\\modul7_kelompok_5\\obj\\",
+      "outputPath": "D:\\Modul7_1302210097\\modul7_kelompok_5\\modul7_kelompok_5\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\PRAKTIKAN\\AppData\\Roaming\\NuGet\\NuGet.Config",

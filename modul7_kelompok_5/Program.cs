@@ -18,3 +18,14 @@ MhsReza2.ReadJSON();
 GlossaryItem1302213016 MhsReza3 = new GlossaryItem1302213016();
 MhsReza3.ReadJSON();
 
+DataMahasiswa1302210097 riz1 = new DataMahasiswa1302210097();
+
+riz1.ReadJSON();
+
+TeamMembers1302210097 riz2   = new TeamMembers1302210097();
+
+riz2.ReadJSON();
+
+Glossaryitem1302210097 riz3 = new Glossaryitem1302210097();
+
+riz3.ReadJSON();
